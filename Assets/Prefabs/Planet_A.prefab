@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3057888940374113572}
   - component: {fileID: 1798649224876712789}
   m_Layer: 0
-  m_Name: Uranus
+  m_Name: Planet_A
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
