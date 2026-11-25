@@ -126,5 +126,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Orbits
   pivot: {fileID: 0}
-  angularSpeed: 20
-  selfRotationSpeed: 30
+  angularSpeed: 33.5
+  selfRotationSpeed: 14.8

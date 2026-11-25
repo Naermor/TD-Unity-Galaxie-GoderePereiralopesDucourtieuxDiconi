@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 1883499335092602041}
   - component: {fileID: 5548489901456472468}
   - component: {fileID: 1605258263019458399}
+  - component: {fileID: 3839382831796280871}
   m_Layer: 0
-  m_Name: Planet-C
+  m_Name: Planet_C
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -112,3 +113,18 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3839382831796280871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8537683098693191042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 590ffe2ede95bde4fa7f75211f2e5ee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Orbits
+  pivot: {fileID: 0}
+  angularSpeed: 92
+  selfRotationSpeed: 49.7
